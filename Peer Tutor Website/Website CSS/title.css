@@ -1,0 +1,45 @@
+body{
+  text-align: center;
+  background-image: url("https://media.cntraveler.com/photos/58d2c0a97e623821b9f3181d/master/pass/yoshinoyama--japan-GettyImages-488852217.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  margin: 20px;
+}
+
+.heading{
+  background-color: white;
+  margin: 20px;
+  padding: 20px;
+  font-family: 'Raleway', sans-serif;
+}
+
+.menu{
+  list-style-type: none;
+  background-color: white;
+  margin: 20px;
+  font-family: 'Lora', serif;
+  padding: 20px;
+}
+
+.slogan{
+  font-family: 'Domine', serif;
+  font-style: italic;
+}
+
+a:link{
+  color: black;
+}
+
+a:visited{
+  color:black;
+}
+
+a:hover{
+  background-color: #fff7ad;
+}
+
+footer{
+  padding-bottom: 13px;
+  padding-top: 17px;
+  color:white;
+}
