@@ -216,3 +216,11 @@ footer{
   margin-top: 6px;
   font-family: 'Muli', sans-serif;
 }
+
+.pokemon{
+  float:none;
+}
+
+.space{
+  padding-bottom: 8px;
+}
